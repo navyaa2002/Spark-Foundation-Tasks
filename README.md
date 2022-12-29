@@ -1,5 +1,7 @@
 # The Spark Foundation Tasks 
 
+## Author: Navya Mamoria
+
 This repository contains the tasks that I did while working as an intern for The Sparks Foundation under Graduate Rotational Internship Program.
 
 ## Task-1 : Prediction using Supervised ML (Level - Beginner)
